@@ -1,6 +1,11 @@
+Itch:
 https://cadentheknight.itch.io/
 
+Artstation:
 https://www.artstation.com/cadenhenderson
+
+LinkedIn:
+https://www.linkedin.com/in/caden-henderson-120b2921b/
 
 - 👋 Hi, I’m @CadenTheKnight
 - 👀 I’m interested in Awesome
