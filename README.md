@@ -8,10 +8,10 @@ LinkedIn:
 https://www.linkedin.com/in/caden-henderson-120b2921b/
 
 - 👋 Hi, I’m @CadenTheKnight
-- 👀 I’m interested in Awesome
-- 🌱 I’m currently learning Digital Media and CS at the University of Central Florida
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me ...
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Game Design and CS at the University of Central Florida
+- 💞️ I’m looking to collaborate on games!
+- 📫 LinkedIn: https://www.linkedin.com/in/caden-henderson-120b2921b/
 
 <!---
 CadenTheKnight/CadenTheKnight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
